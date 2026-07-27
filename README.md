@@ -4,7 +4,7 @@
 **Participant:** Archana Singh
 **Challenge track:** Global Industry Challenge 2026 — Mitsubishi Chemical & AIST
 (`gic-2026-Mitsubishi-AIST`, https://aqora.io/challenges/global-industry-challenge-2026/tracks/gic-2026-Mitsubishi-AIST)
-**Repository:** [https://github.com/ArchanaSingh1995/Potomac_Mitsubishi_Challenge.git](https://github.com/archana070723/Mitsubishi2026.git)
+**Repository:** https://github.com/archana070723/Mitsubishi2026.git
 
 [![Launch on qBraid](https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png)](https://account.qbraid.com/api/auth/partner/aqora/start?hackathonId=gic-2026&challengeId=gic-2026-mitsubishi-aist)
 
